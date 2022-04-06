@@ -1,0 +1,7 @@
+.menu__item{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    padding: 5px;
+    margin: 5px; 
+}
