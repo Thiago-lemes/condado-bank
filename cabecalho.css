@@ -1,7 +1,8 @@
 .cabecalho{
-  background-image: url(pexels-david-mcbee-730547.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 700px;
-}
+    background-image: url(img/pexels-david-mcbee-730547.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    
+  }
