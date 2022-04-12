@@ -1,0 +1,24 @@
+.paragrafo{
+    display: flex;
+    width: 600px;
+    height: 600px; 
+    padding: 28px;
+    align-items: flex-start;
+}
+
+.texto{
+    display: flex;
+    align-self: flex-start;
+    flex-direction: row;
+    color: blueviolet;
+    font-size: 30px;
+    align-items: stretch;
+    width: 150px;
+    height: 200px;
+    align-items: center;
+}
+.conteudo__paragrafo{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
